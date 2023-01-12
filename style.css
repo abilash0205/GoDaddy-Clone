@@ -151,6 +151,11 @@ input[type="text"] {
     border-radius: 8px;
 }
 
+.ads button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(5, 200px);
